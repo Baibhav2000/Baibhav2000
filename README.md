@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baibhav Chakraborty</h1>
 <h3 align="center">An Aspiring Backend Web Developer</h3>
 
-- 🌱 I’m currently learning **Node.JS, Express.JS, TypeScript, PHP**
+- 🌱 I’m currently learning **Node.JS, Express.JS, TypeScript, PHP, Django, Python**
 
 - 📫 How to reach me **baibhav.chakrabortybc2000@gmail.com**
 
